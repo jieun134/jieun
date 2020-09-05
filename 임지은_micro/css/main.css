@@ -1,0 +1,36 @@
+
+
+
+#fullpage > section {
+    height: 980px;
+}
+
+
+#section01 {
+    background: black;
+}
+
+
+#section02 {
+    background: orange;
+
+}
+#section03 {
+    background: yellow;
+}
+
+#section04 {
+    background: green ;
+
+}
+
+#section05 {
+    background: dodgerblue;
+
+}
+
+#footer,
+#footer .fp-tableCell {
+    height: 160px !important;
+    background: gray;
+}
